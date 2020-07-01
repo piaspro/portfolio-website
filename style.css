@@ -80,7 +80,7 @@ h1 {
 }
 .text-design{
     border-radius: 10px;
-    background-color: #09dba3;
+    background-image: linear-gradient(tomato, orange);
     margin-top: 20px;
     padding: 20px 30px;
 }
